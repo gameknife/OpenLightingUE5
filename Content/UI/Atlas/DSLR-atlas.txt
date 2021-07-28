@@ -1,0 +1,42 @@
+{
+    "width": 1024,
+    "height": 512,
+    "sprites": {
+        "Frame_Main": {
+            "x": 90,
+            "y": 2,
+            "width": 519,
+            "height": 265,
+            "offsetX": 200,
+            "offsetY": 169,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Frame_Focus": {
+            "x": 20,
+            "y": 2,
+            "width": 68,
+            "height": 43,
+            "offsetX": 426,
+            "offsetY": 280,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Frame_SubFocus": {
+            "x": 2,
+            "y": 2,
+            "width": 16,
+            "height": 16,
+            "offsetX": 452,
+            "offsetY": 173,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        }
+    }
+}
