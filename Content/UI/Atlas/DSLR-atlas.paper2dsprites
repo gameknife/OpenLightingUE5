@@ -1,9 +1,489 @@
 {
     "frames": {
-        "Frame_Main": {
+        "Icon_Cloud": {
             "frame": {
                 "x": 90,
                 "y": 2,
+                "w": 71,
+                "h": 48
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 71,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 71,
+                "h": 48
+            },
+            "offsetX": 432,
+            "offsetY": 565,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_WB_Shade": {
+            "frame": {
+                "x": 784,
+                "y": 2,
+                "w": 83,
+                "h": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 83,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 83,
+                "h": 63
+            },
+            "offsetX": 334,
+            "offsetY": 557,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_WB_WLight": {
+            "frame": {
+                "x": 163,
+                "y": 2,
+                "w": 62,
+                "h": 54
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 62,
+                "h": 54
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 54
+            },
+            "offsetX": 244,
+            "offsetY": 562,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_WB_Light": {
+            "frame": {
+                "x": 77,
+                "y": 52,
+                "w": 69,
+                "h": 71
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 69,
+                "h": 71
+            },
+            "sourceSize": {
+                "w": 69,
+                "h": 71
+            },
+            "offsetX": 133,
+            "offsetY": 553,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_WB_Sun": {
+            "frame": {
+                "x": 331,
+                "y": 63,
+                "w": 71,
+                "h": 71
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 71,
+                "h": 71
+            },
+            "sourceSize": {
+                "w": 71,
+                "h": 71
+            },
+            "offsetX": 26,
+            "offsetY": 553,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Delete": {
+            "frame": {
+                "x": 869,
+                "y": 2,
+                "w": 53,
+                "h": 68
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 53,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 53,
+                "h": 68
+            },
+            "offsetX": 441,
+            "offsetY": 463,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_MicroDist": {
+            "frame": {
+                "x": 924,
+                "y": 2,
+                "w": 49,
+                "h": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 49,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 49,
+                "h": 69
+            },
+            "offsetX": 351,
+            "offsetY": 462,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_MultiShot": {
+            "frame": {
+                "x": 148,
+                "y": 59,
+                "w": 87,
+                "h": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 87,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 87,
+                "h": 69
+            },
+            "offsetX": 231,
+            "offsetY": 462,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_SingleShot": {
+            "frame": {
+                "x": 237,
+                "y": 59,
+                "w": 92,
+                "h": 70
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 92,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 92,
+                "h": 70
+            },
+            "offsetX": 121,
+            "offsetY": 462,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Aparture": {
+            "frame": {
+                "x": 404,
+                "y": 63,
+                "w": 72,
+                "h": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 72
+            },
+            "offsetX": 26,
+            "offsetY": 461,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_LightEye": {
+            "frame": {
+                "x": 227,
+                "y": 2,
+                "w": 54,
+                "h": 55
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 54,
+                "h": 55
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 55
+            },
+            "offsetX": 441,
+            "offsetY": 377,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_WB": {
+            "frame": {
+                "x": 2,
+                "y": 47,
+                "w": 73,
+                "h": 70
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 70
+            },
+            "offsetX": 339,
+            "offsetY": 370,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_AF_CenterWeight": {
+            "frame": {
+                "x": 538,
+                "y": 2,
+                "w": 80,
+                "h": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 80,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 60
+            },
+            "offsetX": 235,
+            "offsetY": 375,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_AF_Center": {
+            "frame": {
+                "x": 620,
+                "y": 2,
+                "w": 80,
+                "h": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 80,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 60
+            },
+            "offsetX": 127,
+            "offsetY": 375,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_AF_Wide": {
+            "frame": {
+                "x": 702,
+                "y": 2,
+                "w": 80,
+                "h": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 80,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 60
+            },
+            "offsetX": 22,
+            "offsetY": 375,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_NoLight": {
+            "frame": {
+                "x": 283,
+                "y": 2,
+                "w": 55,
+                "h": 55
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 55
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 55
+            },
+            "offsetX": 440,
+            "offsetY": 294,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Light": {
+            "frame": {
+                "x": 340,
+                "y": 2,
+                "w": 23,
+                "h": 55
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 23,
+                "h": 55
+            },
+            "sourceSize": {
+                "w": 23,
+                "h": 55
+            },
+            "offsetX": 364,
+            "offsetY": 294,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Timer10": {
+            "frame": {
+                "x": 365,
+                "y": 2,
+                "w": 56,
+                "h": 59
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 59
+            },
+            "offsetX": 247,
+            "offsetY": 292,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Timer5": {
+            "frame": {
+                "x": 423,
+                "y": 2,
+                "w": 56,
+                "h": 59
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 59
+            },
+            "offsetX": 139,
+            "offsetY": 292,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Icon_Timer": {
+            "frame": {
+                "x": 481,
+                "y": 2,
+                "w": 55,
+                "h": 59
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 59
+            },
+            "offsetX": 34,
+            "offsetY": 292,
+            "sourceW": 920,
+            "sourceH": 644,
+            "trimmed": true,
+            "rotated": false
+        },
+        "Frame_Main": {
+            "frame": {
+                "x": 478,
+                "y": 73,
                 "w": 519,
                 "h": 265
             },
