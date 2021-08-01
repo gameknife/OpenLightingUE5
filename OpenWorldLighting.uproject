@@ -13,5 +13,11 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Mac",
+		"Windows"
 	]
 }
