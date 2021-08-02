@@ -72,3 +72,5 @@ DerivedDataCache/*
 .vscode/
 *.dll
 *.target
+Package/
+Binaries/
